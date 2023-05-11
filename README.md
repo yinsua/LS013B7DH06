@@ -1,0 +1,8 @@
+STM32F411CEU6  
+Use 12MHz Osc  
+PA5 -> CLK  
+PA7 -> SI  
+B0 -> CS  
+B1 -> EXTCOMIN  
+B2 -> DISP  
+B10 -> MODE  
